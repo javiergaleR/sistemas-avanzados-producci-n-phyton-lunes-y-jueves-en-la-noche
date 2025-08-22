@@ -7,4 +7,6 @@ Archivos que contienen todos los datos e información de la clase.
 *taller 2
 *parcial 
 *taller 3
-*talller 4
+*taller 4
+
+
